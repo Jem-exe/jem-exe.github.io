@@ -79,14 +79,14 @@ img {
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #74c0fc;
-      --links: #91A7FF;
+      --headings: #B1A2CB;
+      --links: #A693C8;
       --highlight: #41C7C7;
-      --bg: #1f242A;
-      --bg-secondary: #323945;
+      --bg: #2E2A35;
+      --bg-secondary: #3A2C4D;
       --text: #adb5bd;
       --text-secondary: #9CA3AF;
-      --code-text: #91A7FF;
+      --code-text: #4A355e;
       --share-text: #C4C4C4;
   };
 }
