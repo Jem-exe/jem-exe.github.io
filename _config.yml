@@ -1,12 +1,13 @@
 title: Jemina Banu | Portfolio
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Hi, I'm Jemina, a Computer Games Programming student. I enjoy coding gameplay mechanics, UI systems, and experimenting with AI behaviours. I primarily work with C# and Unity, but I also can do blueprinting in Unreal Engine 5 as well as having C++ knowledge. 
-  Focus: Gameplay Systems, AI, UI
-  Skills: C#, C++, Unity, Unreal Engine (blueprinting)
-  Degree: BSC(h) Computer Games Programming
-  Favourite Game Genre: A-RPG/J-RPG (final fantasy games, kingdom hearts, Nier games)
-  Favourite Game: Nier Automata
+  Hi, I'm Jemina, a Computer Games Programming student, and this is my portfolio website. I enjoy coding gameplay mechanics, UI systems, and experimenting with AI behaviours. 
+  I primarily work with C# and Unity, but I also can do blueprinting in Unreal Engine 5 as well as having C++ knowledge. 
+  \nFocus: Gameplay Systems, AI, UI
+  \nSkills: C#, C++, Unity, Unreal Engine (blueprinting)
+  \nDegree: BSC(h) Computer Games Programming
+  \nFavourite Game Genre: A-RPG/J-RPG (final fantasy games, kingdom hearts, Nier games)
+  \nFavourite Game: Nier Automata
   
 permalink: /:slug
 
@@ -33,7 +34,6 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_about_me: About Me
     title_projects: Projects
     title_misc_list: Details
     title_old_projects: Old Projects
