@@ -1,3 +1,7 @@
+home:
+  - title: site.title
+    url: https://jem-exe.github.io/
+
 navbar_entries:
   - title: LinkedIn
     url: https://uk.linkedin.com/in/jemina-banu-5557a9261
