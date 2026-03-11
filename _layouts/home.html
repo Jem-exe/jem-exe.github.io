@@ -3,13 +3,14 @@ layout: default
 ---
 
 <header>
+<h1>{{ "Portfolio" }}</h1>
 {% if site.theme_config.show_navbar == true %}
   {% include horizontal_list.html collection=site.data.home.navbar_entries %}
   <div class="dashed"></div>
 {% endif %}
 
-  <h1>{{ "Portfolio" }}</h1>
-      <h2>{{ "About Me: " }}</h2>
+
+  <h2>{{ "About Me: " }}</h2>
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description | markdownify }}</p>
   {% endif %}
