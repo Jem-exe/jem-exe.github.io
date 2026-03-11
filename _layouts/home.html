@@ -11,7 +11,7 @@ layout: default
   <h1>{{ "Portfolio" }}</h1>
       <h2>{{ "About Me: " }}</h2>
   {% if site.theme_config.show_description == true %}
-    <p>{{ site.description }}</p>
+    <p>{{ site.description | markdownify }}</p>
   {% endif %}
 </header>
 

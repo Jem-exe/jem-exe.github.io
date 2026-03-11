@@ -1,13 +1,13 @@
 title: Jemina Banu | Portfolio
 url: jem-exe.github.io
-description: >
+description: |
   Hi, I'm Jemina, a Computer Games Programming student, and this is my portfolio website. I enjoy coding gameplay mechanics, UI systems, and experimenting with AI behaviours. I primarily work with C# and Unity, but I also can do blueprinting in Unreal Engine 5 as well as having C++ knowledge. 
-  <br>
-  <br>- Focus: Gameplay Systems, AI, UI
-  <br>- Skills: C#, C++, Unity, Unreal Engine (blueprinting)
-  <br>- Degree: BSC(h) Computer Games Programming
-  <br>- Favourite Game Genre: A-RPG/J-RPG (final fantasy games, kingdom hearts, Nier games)
-  <br>- Favourite Game: Nier Automata
+  
+  - **Focus:** Gameplay Systems, AI, UI
+  - **Skills:** C#, C++, Unity, Unreal Engine (blueprinting)
+  - **Degree:** BSC(h) Computer Games Programming
+  - **Favourite Game Genre:** A-RPG/J-RPG (final fantasy games, kingdom hearts, Nier games)
+  - **Favourite Game:** Nier Automata
   
 permalink: /:slug
 
