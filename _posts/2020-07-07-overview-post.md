@@ -1,5 +1,4 @@
 
----
 layout: post
 author: Jemina Banu
 tags: [overview, moonwalk]
@@ -73,7 +72,7 @@ Now a table:
 
 ## Images
 
-![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
+![theme logo]<link rel="logo.png" sizes="300x300" href="/logo.png">
 
 This is an image[^4]
 
