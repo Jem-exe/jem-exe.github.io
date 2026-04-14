@@ -16,7 +16,7 @@ navbar_entries:
 
 project_entries:
   - title: Reactive NPCs
-    url: /reactive-npcs/
+    url: reactive-npcs
     desc: Project made in unity that explores how utility-based AI improves reactivity in NPCs compared to finite state machines
 
   - title: Echoes of Imagination
