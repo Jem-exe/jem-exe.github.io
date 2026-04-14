@@ -16,14 +16,14 @@ navbar_entries:
 
 project_entries:
   - title: Reactive NPCs
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    url: reactive-npc
+    desc: Project made in unity that explores how utility-based AI improves reactivity in NPCs compared to finite state machines
 
-  - title: Project 2
+  - title: Echoes of Imagination
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: A collab project of a tile-based movement puzzle game.
 
-  - title: Project 3
+  - title: Level Builder Tool
     url: overview-post
     desc: You can control visibility from _config.yml file
 
