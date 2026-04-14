@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Reactive NPCs"
-permalink: /reactive-npcs/
 author: Jemina Banu
 tags: [Unity, AI, Artificial Intelligence]
 ---
