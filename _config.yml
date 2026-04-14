@@ -40,6 +40,11 @@ theme_config:
 
 # highlighter: rouge
 
+collections:
+  projects:
+    output: true
+    permalink: /:name/
+
 sass:
   style: :compressed
 
