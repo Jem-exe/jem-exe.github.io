@@ -5,7 +5,7 @@ author: Jemina Banu
 tags: [Unity, AI, Artificial Intelligence]
 ---
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+For my final year project, I researched in depth on to what makes NPC's reactive, how reactive NPCs improves gameplay and immersion, and different decision-making models such as finite state machines, behaviour tree's, goal-oriented action planning, and utility theory. 
 
 # Sample heading 1
 ## Sample heading 2
