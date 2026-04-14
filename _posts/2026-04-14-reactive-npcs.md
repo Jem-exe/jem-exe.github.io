@@ -5,18 +5,17 @@ author: Jemina Banu
 tags: [Unity, AI, Artificial Intelligence]
 ---
 
-For my final year project, I researched in depth on to what makes NPC's reactive, how reactive NPCs improves gameplay and immersion, and different decision-making models such as finite state machines, behaviour tree's, goal-oriented action planning, and utility theory. 
+For my final year project, I researched in depth on to what makes NPC's reactive, how reactive NPCs improves gameplay and immersion, and different decision-making models such as finite state machines, behaviour tree's, goal-oriented action planning, and utility theory.
 
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
+## Why Reactive NPCs?
+Insert Text here
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
+## Decision Making Models
+Insert summary here
 
-## Lists
+Show table
+
+## Results and Findings
 
 Unordered:
 
