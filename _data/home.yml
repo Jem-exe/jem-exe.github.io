@@ -20,7 +20,7 @@ project_entries:
     desc: Project made in unity that explores how utility-based AI improves reactivity in NPCs compared to finite state machines
 
   - title: Echoes of Imagination
-    url: overview-post
+    url: language-tests
     desc: A collab project of a tile-based movement puzzle game.
 
   - title: Level Builder Tool
