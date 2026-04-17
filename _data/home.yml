@@ -5,6 +5,10 @@ home:
 navbar_entries:
   - title: Home
     url: https://jem-exe.github.io
+
+  - title: About Me / CV
+    url: https://jem-exe.github.io
+    
   - title: LinkedIn
     url: https://uk.linkedin.com/in/jemina-banu-5557a9261
 
