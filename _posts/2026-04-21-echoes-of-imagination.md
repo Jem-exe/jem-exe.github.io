@@ -10,7 +10,7 @@ This was created in a team of art, design, and programming students where we eac
 
 ## Video Demonstration
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1EM_pRcLbC0" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/1EM_pRcLbC0/default.jpg)](https://www.youtube.com/watch?v=1EM_pRcLbC0)
 
 ### 1. 日本語テスト
 
