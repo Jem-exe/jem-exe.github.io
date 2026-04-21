@@ -1,9 +1,16 @@
 ---
 layout: post
-title: "Language Tests"
+title: "Echoes of Imagination"
+tags: [Unreal Engine, Blueprinting, Collaboration, Debugging, UI, User Interface]
 ---
 
-Note: Text is from [moving](https://github.com/huangyz0918/moving), which is another good Jekyll theme.
+Echoes of Imagination is a puzzle based game where the main feature is switch mechanic, where the player switches from a dream state to a nightmare state where the world rules differ. By using that mechanic, interacting with the objects and avoiding obstacles, the players goal is to reach the end of all nine levels to wake up.
+
+This was created in a team of art, design, and programming students where we each communicated and worked with eachother to make our game come to life.
+
+## Video Demonstration
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1EM_pRcLbC0" frameborder="0" allowfullscreen></iframe>
 
 ### 1. 日本語テスト
 

@@ -24,12 +24,12 @@ project_entries:
     desc: Project made in unity that explores how utility-based AI improves reactivity in NPCs compared to finite state machines
 
   - title: Echoes of Imagination
-    url: language-tests
+    url: echoes-of-imagination
     desc: A collab project made in Unreal Engine of a tile-based movement puzzle game.
 
   - title: Level Builder Tool
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+    url: level-builder-tool
+    desc: A tool made in unity that allows the easy creation of levels using a grid.
 
   - title: Project 4
     url: overview-post
@@ -38,7 +38,7 @@ project_entries:
 
   - title: Project 5
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: You can control visibility from _config.yml file
     highlight: WIP
 
   - title: Project 6
