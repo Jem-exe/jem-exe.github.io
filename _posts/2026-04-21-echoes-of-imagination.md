@@ -11,7 +11,6 @@ This was created in a team of art, design, and programming students where we eac
 ## Video Demonstration
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/1EM_pRcLbC0" title="Echoes of Imagination - Full Gameplay showcase (2x speed)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="1396" height="785" src="https://www.youtube.com/embed/1EM_pRcLbC0" title="Echoes of Imagination - Full Gameplay showcase (2x speed)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
