@@ -12,6 +12,9 @@ This was created in a team of art, design, and programming students where we eac
 
 [![Watch the video](https://img.youtube.com/vi/1EM_pRcLbC0/default.jpg)](https://www.youtube.com/watch?v=1EM_pRcLbC0)
 
+<a href = https://www.youtube.com/watch?v=1EM_pRcLbC0>
+<iframe width="1396" height="785" src="https://www.youtube.com/embed/1EM_pRcLbC0" title="Echoes of Imagination - Full Gameplay showcase (2x speed)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### 1. 日本語テスト
 
 This is a Japanese test post to show you how japanese is displayed.
