@@ -8,4 +8,4 @@ This tool was inspired by my collab project (Echoes of Imagination), where we ha
 
 ## Video Demonstration
 
-<iframe width="240" height="180" src="https://www.youtube.com/embed/9IExoVOwQos" title="Tools Development   Level Design Tool Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/9IExoVOwQos" title="Tools Development   Level Design Tool Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
