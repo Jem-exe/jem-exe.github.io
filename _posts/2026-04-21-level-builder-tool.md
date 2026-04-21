@@ -4,8 +4,8 @@ title: "Level Builder Tool"
 tags: [Unity, C#, Tooling, UI, User Interface]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis.
+This tool was inspired by my collab project (Echoes of Imagination), where we had tile/grid based movement and since our game would have different levels with tiles that were either bridges or obstacles, I thought it'd be easier if there was a tool that you could just select the type of 'tile' or object and draw on like a grid to place the objects down and edit it using that, rather than drag out each tile individually or copy and paste it and create the level that way.
 
 ## Video Demonstration
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=9IExoVOwQos" frameborder="0" allowfullscreen></iframe>
+<iframe width="240" height="180" src="https://www.youtube.com/embed/9IExoVOwQos" title="Tools Development   Level Design Tool Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
