@@ -9,9 +9,8 @@ Echoes of Imagination is a puzzle based game where the main feature is switch me
 This was created in a team of art, design, and programming students where we each communicated and worked with eachother to make our game come to life.
 
 ## Video Demonstration
-
 <div class = "video-container">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/1EM_pRcLbC0" title="Echoes of Imagination - Full Gameplay showcase (2x speed)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="800" height="450" src="https://www.youtube.com/embed/1EM_pRcLbC0" title="Echoes of Imagination - Full Gameplay showcase (2x speed)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Individual Contributions
