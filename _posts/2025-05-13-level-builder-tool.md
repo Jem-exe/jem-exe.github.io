@@ -12,3 +12,9 @@ This tool was inspired by my collab project (Echoes of Imagination), where we ha
 </div>
 
 ## Project Planning
+
+<div class = "video-container">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2-3_NC76pCvuHRpubhfmd_aovJuKdEtRAPQWZ9et5AGA7uQOKlfswewIvix4MBTi2kX4MozUffQ0M/pubhtml?gid=1115838130&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</div>
+
+
