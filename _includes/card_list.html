@@ -12,6 +12,14 @@
 
         </span>
 
+          {% if item.tag1 %}
+            <mark>{{ item.tag1 }}</mark>
+          {% endif %}
+
+          {% if item.tag2 %}
+            <mark>{{ item.tag2 }}</mark>
+          {% endif %}
+
         <hr />
 
         {% if item.desc != false %}
