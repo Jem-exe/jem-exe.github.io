@@ -22,7 +22,7 @@ project_entries:
   - title: Reactive NPCs
     url: reactive-npcs
     desc: Project made in unity that explores how utility-based AI improves reactivity in NPCs compared to finite state machines
-    image:
+    image:../images/ReactiveNPCs.png
     tag1: C# 
     tag2: AI  
     tag3: Unity
@@ -44,7 +44,7 @@ project_entries:
     tag2: Unity
     tag3: Tooling
 
-  - title: Project 4
+  - title: Advanced AI 
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
