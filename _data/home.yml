@@ -1,6 +1,6 @@
 home:
   - title: Jemina Banu | Portfolio
-    url: https://jem-exe.github.io
+    url: ../
 
 navbar_entries:
   - title: Home
@@ -39,7 +39,7 @@ project_entries:
   - title: Level Builder Tool
     url: level-builder-tool
     desc: A tool made in unity that allows the easy creation of levels using a grid.
-    image:
+    image: ../images/LevelBuilderScreenshot.png
     tag1: C#
     tag2: Unity
     tag3: Tooling
