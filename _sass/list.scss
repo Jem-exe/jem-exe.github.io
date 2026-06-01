@@ -20,7 +20,7 @@ ul.horizontal-list {
 .card {
   padding: 5em;
   border: 1px var(--text) solid;
-  width: 20em;
+  width: 30em;
   height: auto;
   text-align: center;
   font-size: 1em;
@@ -28,6 +28,10 @@ ul.horizontal-list {
   background-color: var(--bg-secondary);
   margin-bottom: 0.8em;
   border-radius: 0.3em;
+
+  .card:hover {
+    transform: scale(1.05);
+  }
 
   .header {
     color: var(--links);
