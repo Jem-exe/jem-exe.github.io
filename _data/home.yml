@@ -6,7 +6,7 @@ navbar_entries:
   - title: Home
     url: https://jem-exe.github.io
 
-  - title: About Me / CV
+  - title: About Me
     url: https://jem-exe.github.io
     
   - title: LinkedIn
@@ -46,22 +46,7 @@ project_entries:
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
 
 footer_entries:
   - title: github
@@ -81,7 +66,7 @@ misc_entries:
     url: false
 
   - title: Blog posts
-    post_list: true
+    post_list: false
     url: false
 
   - title: moonwalk on the Internet
@@ -90,8 +75,6 @@ misc_entries:
       - title: on Github
         url: https://github.com/abhinavs/moonwalk
 
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
 
       - title: this list is scalable and can be nested
         url: false
