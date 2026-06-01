@@ -23,20 +23,26 @@ project_entries:
     url: reactive-npcs
     desc: Project made in unity that explores how utility-based AI improves reactivity in NPCs compared to finite state machines
     image:
-    tag1: AI  
-    tag2: Unity
+    tag1: C# 
+    tag2: AI  
+    tag3: Unity
 
   - title: Echoes of Imagination
     url: echoes-of-imagination
     desc: A collab project made in Unreal Engine of a tile-based movement puzzle game.
-    image: EchoesOfImaginationTitleScreen.png
+    image: ../images/EchoesOfImaginationTitleScreen.png
     tag1: Unreal Engine
+    tag2: Blueprints
+    tag3: Collab
 
 
   - title: Level Builder Tool
     url: level-builder-tool
     desc: A tool made in unity that allows the easy creation of levels using a grid.
     image:
+    tag1: C#
+    tag2: Unity
+    tag3: Tooling
 
   - title: Project 4
     url: overview-post
