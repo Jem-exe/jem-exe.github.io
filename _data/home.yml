@@ -27,7 +27,7 @@ project_entries:
   - title: Echoes of Imagination
     url: echoes-of-imagination
     desc: A collab project made in Unreal Engine of a tile-based movement puzzle game.
-    image: EchoesOfImaginationTitleScreen.png
+    image: EchoesOfImaginationTitleScreen
 
   - title: Level Builder Tool
     url: level-builder-tool
