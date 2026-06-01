@@ -33,6 +33,11 @@ ul.horizontal-list {
     transform: scale(1.05);
   }
 
+  .card-img {
+    width: 100%;
+    height: auto;
+  }
+
   .header {
     color: var(--links);
   }

@@ -19,6 +19,10 @@
           {{ item.desc }}
         </p>
         {% endif %}
+
+        {% if item.image != false %}
+        <img src="{{ item.image }}" class="card-img">
+        {% endif %}
       </a>
     </li>
 
