@@ -22,7 +22,7 @@ project_entries:
   - title: Reactive NPCs
     url: reactive-npcs
     desc: Project made in unity that explores how utility-based AI improves reactivity in NPCs compared to finite state machines
-    image:../images/ReactiveNPCs.png
+    image: ../images/ReactiveNPCs.png
     tag1: C# 
     tag2: AI  
     tag3: Unity
