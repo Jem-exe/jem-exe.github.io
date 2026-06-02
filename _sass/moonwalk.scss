@@ -65,11 +65,12 @@ img {
 }
 
 .img-container {
-  position: relative;
+  max-width: 100%;
+  display: block;
+  margin: 2rem;
 
-  float: left;
-  
 }
+
 .video-container {
   position: relative;
   width: 95%;
