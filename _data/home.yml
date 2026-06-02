@@ -44,10 +44,11 @@ project_entries:
     tag2: Unity
     tag3: Tooling
 
-  - title: Advanced AI 
+  - title: Advanced Game AI 
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    tag1: C++
+    tag2: AI
 
   - title: Project 5
     url: overview-post

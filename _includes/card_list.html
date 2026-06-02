@@ -3,42 +3,38 @@
 
     <li class="card">
       <a href="{{ item.url }}">
-        <li class="card-content"></li>
-          <span class="header">
-            {{ item.title }}
+        <span class="header">
+          {{ item.title }}
 
-            {% if item.highlight %}
-              <mark>{{ item.highlight }}</mark>
-            {% endif %}
-
-          </span>
-            <br>
-            {% if item.tag1 %}
-              <mark>{{ item.tag1 }}</mark>
-            {% endif %}
-
-            {% if item.tag2 %}
-              <mark>{{ item.tag2 }}</mark>
-            {% endif %}
-
-            {% if item.tag3 %}
-              <mark>{{ item.tag3 }}</mark>
-            {% endif %}
-
-          <hr />
-
-          {% if item.desc != false %}
-          <p class="body">
-            {{ item.desc }}
-          </p>
+          {% if item.highlight %}
+            <mark>{{ item.highlight }}</mark>
           {% endif %}
-        </li>
 
-        <li class="card-img">
-          {% if item.image != false %}
-          <img src="{{ item.image }}">
+        </span>
+          <br>
+          {% if item.tag1 %}
+            <mark>{{ item.tag1 }}</mark>
           {% endif %}
-        </li>
+
+          {% if item.tag2 %}
+            <mark>{{ item.tag2 }}</mark>
+          {% endif %}
+
+          {% if item.tag3 %}
+            <mark>{{ item.tag3 }}</mark>
+          {% endif %}
+
+        <hr />
+
+        {% if item.desc != false %}
+        <p class="body">
+          {{ item.desc }}
+        </p>
+        {% endif %}
+
+        {% if item.image != false %}
+        <img src="{{ item.image }}" class="card-img">
+        {% endif %}
       </a>
     </li>
 
