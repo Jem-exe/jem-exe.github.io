@@ -21,7 +21,7 @@ navbar_entries:
 project_entries:
   - title: Reactive NPCs
     url: reactive-npcs
-    desc: Project made in unity that explores how utility-based AI improves reactivity in NPCs compared to finite state machines
+    desc: Project made in unity that explores how utility-based AI improves reactivity in NPCs compared to finite state machines.
     image: ../images/ReactiveNPCs.png
     tag1: C# 
     tag2: AI  
@@ -29,7 +29,7 @@ project_entries:
 
   - title: Echoes of Imagination
     url: echoes-of-imagination
-    desc: A collab project made in Unreal Engine of a tile-based movement puzzle game.
+    desc: A collab project made in Unreal Engine. Echoes of Imagination is a grid-based movement puzzle adventure game similar to Lara Craft Go.
     image: ../images/EchoesOfImaginationTitleScreen.png
     tag1: Unreal Engine
     tag2: Blueprints
