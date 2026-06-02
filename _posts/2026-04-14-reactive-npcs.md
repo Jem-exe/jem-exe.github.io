@@ -20,15 +20,7 @@ Since games have come a long way in terms of creating reactive NPC's, going from
 
 [Insert summary here]
 
-| Area of Capability  | FSM         | HFSM        | BT          | GOAP        | Utility AI |
-| ------------------- |-------------|-------------|-------------|-------------|------------|
-| Implementation      | 5           | 4           | 3           | 2           | 3          |
-| Debugging           | 5           | 4           | 4           | 2           | 3          |
-| Scalability         | 1           | 2           | 4           | 3           | 4          |
-| Reactive Behaviour  | 2           | 3           | 5           | 3           | 5          |
-| Emergent Behaviour  | 1           | 1           | 3           | 4           | 4          |
-| Long-Term Planning  | 1           | 1           | 2           | 5           | 2          |
-| Performance (CPU)   | 5           | 4           | 4           | 2           | 4          |
+<img src="../images/Decision Making Table.png" alt="Decision-Making Model Table">
 
 ## Results and Findings
 
