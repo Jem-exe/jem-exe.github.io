@@ -19,7 +19,7 @@ I really like open-world action-adventure games where the player's character can
 [Insert summary here]
 
 | Area of Capability  | FSM         | HFSM        | BT          | GOAP        | Utility AI |
-| ------------------- |:-----------:|:-----------:|:-----------:|:-----------:|-----------:|
+| :-----------------: |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | Implementation      | 5           | 4           | 3           | 2           | 3          |
 | Debugging           | 5           | 4           | 4           | 2           | 3          |
 | Scalability         | 1           | 2           | 4           | 3           | 4          |
