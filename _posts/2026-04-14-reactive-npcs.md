@@ -20,9 +20,9 @@ Since games have come a long way in terms of creating reactive NPC's, going from
 
 [Insert summary here]
 
-<img src="../images/Decision Making Table.png" alt="Decision-Making Model Table" class="img-container">
-
-<br>
+<body>
+    <img src="../images/Decision Making Table.png" alt="Decision-Making Model Table" class="img-container">
+</body>
 
 ## Results and Findings
 
