@@ -9,76 +9,36 @@ For my final year project, I researched in depth on to what makes NPC's reactive
 
 ## Video Demonstration
 
-
+[add video here]
 
 ## Why Reactive NPCs?
-I really like open-world action-adventure games where the player's character can progress, grow, and change based on the actions the player makes. This could be something like their stats, moral alignment calculated over time based on the player's actions, or even the player's appearance, and most importantly, the players story progression. One minor issue i've had with some games is the lack of reaction from the NPCs to major story changes, or the lack of reaction the player at all. 
+I really like open-world action-adventure games where the player's character can progress, grow, and change based on the actions the player makes. This could be something like their stats, moral alignment calculated over time based on the player's actions, or even the player's appearance, and most importantly, the players story progression. One minor issue i've had with some games is the lack of reaction from the NPCs to major story changes, or the lack of reaction to the player at all, making it feel as if the players actions weren't as important.
 
 ## Decision Making Models
-Insert summary here
 
-Show table
+[Insert summary here]
+
+| Area of Capability  | FSM         | HFSM        | BT          | GOAP        | Utility AI |
+| ------------------- |:-----------:|:-----------:|:-----------:|:-----------:|-----------:|
+| Implementation      | 5           | 4           | 3           | 2           | 3          |
+| Debugging           | 5           | 4           | 4           | 2           | 3          |
+| Scalability         | 1           | 2           | 4           | 3           | 4          |
+| Reactive Behaviour  | 2           | 3           | 5           | 3           | 5          |
+| Emergent Behaviour  | 1           | 1           | 3           | 4           | 4          |
+| Long-Term Planning  | 1           | 1           | 2           | 5           | 2          |
+| Performance (CPU)   | 5           | 4           | 4           | 2           | 4          |
 
 ## Results and Findings
 
-Unordered:
 
-- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
-- Sed pharetra tellus massa, non elementum eros vulputate non.
-- Suspendisse potenti.
-
-Ordered:
-
-1. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.
-2. Sed massa quam, auctor in eros quis, porttitor tincidunt orci.
-3. Nulla convallis id sapien ornare viverra.
-4. Nam a est eget ligula pellentesque posuere.
-
-## Blockquote
-
-The following is a blockquote:
-
-> Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
-
-## Thematic breaks (<hr>)
-
-Mauris viverra dictum ultricies[^3]. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **You can put some text inside the horizontal rule like so.**
-
----
-{: data-content="hr with text"}
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **Or you can just have an clean horizontal rule.**
-
----
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.
 
 ## Code
 
 Now some code:
 
 ```
-const ultimateTruth = 'follow middlepath';
-console.log(ultimateTruth);
+
 ```
-
-And here is some `inline code`!
-
-## Tables
-
-Now a table:
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-## Images
-
-![theme logo]<link rel="logo.png" sizes="300x300" href="/logo.png">
-
-This is an image[^4]
 
 ---
 {: data-content="footnotes"}
