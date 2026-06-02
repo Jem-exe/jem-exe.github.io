@@ -29,7 +29,7 @@ project_entries:
 
   - title: Echoes of Imagination
     url: echoes-of-imagination
-    desc: A collab project made in Unreal Engine. Echoes of Imagination is a grid-based movement puzzle adventure game similar to Lara Craft Go.
+    desc: A collaboration project of a grid-based movement puzzle adventure game made in Unreal Engine inspired by Lara Craft Go.
     image: ../images/EchoesOfImaginationTitleScreen.png
     tag1: Unreal Engine
     tag2: Blueprints
@@ -38,15 +38,15 @@ project_entries:
 
   - title: Level Builder Tool
     url: level-builder-tool
-    desc: A tool made in unity that allows the easy creation of levels using a grid.
+    desc: A tool made in unity that allows the easy creation of levels using a resizable grid the user can draw on and create layers.
     image: ../images/LevelBuilderScreenshot.png
     tag1: C#
     tag2: Unity
     tag3: Tooling
 
   - title: Advanced Game AI 
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    url: advanced-game-ai
+    desc: Exploring different AI techniques such as adversarial search algorithms, goal-action oriented programming, and genetic algorithms.
     tag1: C++
     tag2: AI
 
