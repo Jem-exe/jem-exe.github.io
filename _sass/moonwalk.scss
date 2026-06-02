@@ -64,6 +64,25 @@ img {
   margin: 0 auto;
 }
 
+.text-video-section {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.text-content {
+  flex: 1;
+}
+
+.video-content {
+  flex: 1;
+}
+
+.video-content video {
+  width: 100%;
+  height: auto;
+}
+
 .img-container {
   max-width: 100%;
   display: block;
