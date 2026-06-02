@@ -29,15 +29,6 @@ ul.horizontal-list {
   margin-bottom: 0.5em;
   border-radius: 0.3em;
 
-  .card:hover {
-    transform: scale(1.05);
-  }
-
-  .card-img {
-    width: 120%;
-    height: auto;
-  }
-
   .header {
     color: var(--links);
   }
@@ -50,6 +41,15 @@ ul.horizontal-list {
     margin: 0.5em 0;
   }
 
+}
+
+.card-img {
+  width: 120%;
+  height: auto;
+}
+
+.card:hover {
+  transform: scale(1.05);
 }
 
 /* Responsive cards - one column layout on small screens */
