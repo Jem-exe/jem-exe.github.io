@@ -66,7 +66,7 @@ img {
 
 .video-container {
   position: relative;
-  width: 75%;
+  width: 85%;
   padding-bottom: 56.25%; //16:9 aspect ratio
   height: 0%;
 }
@@ -75,8 +75,8 @@ img {
   position: absolute;
   top: 0;
   left: 0;
-  width: 75%;
-  height: 75%;
+  width: 85%;
+  height: 85%;
 }
 
 @mixin light-appearance {
