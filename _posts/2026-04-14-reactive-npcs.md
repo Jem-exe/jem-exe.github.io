@@ -29,7 +29,7 @@ Since games have come a long way in terms of creating reactive NPC's, going from
 [Insert summary here]
 
 <figure>
-    <img src="../images/Decision Making Table.png" alt="Decision-Making Model Table" class="img-container">
+    <img src="../assets/images/Decision Making Table.png" alt="Decision-Making Model Table" class="img-container">
     <figcaption>Fig 1. Strengths/Weaknesses of decision making-models</figcaption>
 </figure>
 

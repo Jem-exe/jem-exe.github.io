@@ -7,7 +7,7 @@ navbar_entries:
     url: https://jem-exe.github.io
 
   - title: About Me
-    url: https://jem-exe.github.io
+    url: "../assets/CV.pdf"
     
   - title: LinkedIn
     url: https://uk.linkedin.com/in/jemina-banu-5557a9261
@@ -22,7 +22,7 @@ project_entries:
   - title: Reactive NPCs
     url: reactive-npcs
     desc: Project made in unity that explores how utility-based AI improves reactivity in NPCs compared to finite state machines.
-    image: ../images/ReactiveNPCs.png
+    image: ../assets/images/ReactiveNPCs.png
     tag1: C# 
     tag2: AI  
     tag3: Unity
@@ -47,17 +47,26 @@ project_entries:
   - title: Advanced Game AI 
     url: advanced-game-ai
     desc: Exploring different AI techniques such as adversarial search algorithms, goal-action oriented programming, and genetic algorithms.
+    highlight: WIP
     tag1: C++
     tag2: AI
 
-  - title: Project 5
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: UI Systems
+    url: ./
+    desc: Invetory and shop systems created in Unity during a 5 day game jam hosted by Tencent. 
     highlight: WIP
+    tag1: C#
+    tag2: Unity
+    tag3: UI
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Real-Time Rendering
+    url: ./
+    desc: A real-time graphics project created using DirectX 11 that loaded objects to the screen and explored lighting and shading.
+    highlight: WIP
+    tag1: C++
+    tag2: Graphics
+    tag3: DirectX 11
+    
 
 old_project_entries:
 
@@ -66,22 +75,9 @@ footer_entries:
   - title: github
     url: https://github.com/jem-exe
 
-  - title: feed
-    url: feed.xml
+  - title: linkedin
+    url: https://uk.linkedin.com/in/jemina-banu-5557a9261
 
-misc_entries:
-  - title: this is an example vertical list
-    url: false
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: false
-    url: false
 
   - title: moonwalk on the Internet
     url: false
@@ -89,14 +85,5 @@ misc_entries:
       - title: on Github
         url: https://github.com/abhinavs/moonwalk
 
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
 
 
