@@ -45,7 +45,7 @@ project_entries:
     tag3: Tooling
 
   - title: Advanced Game AI 
-    url: advanced-game-ai
+    url: ./ #advanced-game-ai
     desc: Exploring different AI techniques such as adversarial search algorithms, goal-action oriented programming, and genetic algorithms.
     highlight: WIP
     tag1: C++
