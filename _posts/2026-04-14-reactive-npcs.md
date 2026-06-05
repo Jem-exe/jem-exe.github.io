@@ -14,6 +14,9 @@ tags: [Unity, AI, Artificial Intelligence, C#]
         </p>
     </div>
     <div class="video-content">
+        <div class="video-container">
+            <iframe width="1410" height="793" src="https://www.youtube.com/embed/_96wyb-cBkQ" title="Reactive NPC showcase - final year project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
     </div>
 </div>
 
