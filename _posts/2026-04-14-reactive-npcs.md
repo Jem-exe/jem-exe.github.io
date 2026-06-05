@@ -14,22 +14,16 @@ tags: [Unity, AI, Artificial Intelligence, C#]
         </p>
     </div>
     <div class="video-content">
-        <div class="video-container">
-            <iframe width="1410" height="793" src="https://www.youtube.com/embed/_96wyb-cBkQ" title="Reactive NPC showcase - final year project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </div>
+        <iframe width="1410" height="793" src="https://www.youtube.com/embed/_96wyb-cBkQ" title="Reactive NPC showcase - final year project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
-
-[add video here]
 
 ## Why Reactive NPCs?
 I really like open-world action-adventure games where the player's character can progress, grow, and change based on the actions the player makes. This could be something like their stats, moral alignment calculated over time based on the player's actions, or even the player's appearance, and most importantly, the players story progression. One minor issue i've had with some games is the lack of reaction from the NPCs to major story changes, or the lack of reaction to the player at all, making it feel as if the players actions weren't as important.
 
-Since games have come a long way in terms of creating reactive NPC's, going from scripted routines, dialogue, and repetitve behaviours in games like Pokemon Red/Greem (1996) and Zelda Ocarina of Time (1998) to having more reactive and dynamic behaviours like the NPCs in
-
 ## Decision Making Models
 
-[Insert summary here]
+The figure below was created after my in-depth research on different decision-making models that are typically used to create the 'brain' of AI in the current games industry.
 
 <figure>
     <img src="../assets/images/Decision Making Table.png" alt="Decision-Making Model Table" class="img-container">
