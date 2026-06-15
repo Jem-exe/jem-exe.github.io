@@ -21,7 +21,7 @@ tags: [Unity, AI, Artificial Intelligence, C#]
 ## Why Reactive NPCs?
 I really like open-world action-adventure games where the player's character can progress, grow, and change based on the actions the player makes. This could be something like their stats, moral alignment calculated over time based on the player's actions, or even the player's appearance, and most importantly, the players story progression. One minor issue i've had with some games is the lack of reaction from the NPCs to major story changes, or the lack of reaction to the player at all, making it feel as if the players actions weren't as important.
 
-## Decision Making Models
+## Decision-Making Models
 
 The figure below was created after my in-depth research on different decision-making models that are typically used to create the 'brain' of AI in the current games industry.
 
@@ -35,7 +35,5 @@ The figure below was created after my in-depth research on different decision-ma
 To read more in detail about my research, the artefact itself, and the results and findings, please read my dissertation.
 
 <a href="/assets/ReactiveNPCs_Dissertation_Jemina_Banu.pdf">Reactive NPCs Dissertation</a>
-
-
 
 ---
