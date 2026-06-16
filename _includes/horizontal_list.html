@@ -2,8 +2,8 @@
   {% for item in include.collection %}
     <li>
       <a href="{{ item.url }}">
-        <img src="../assets/Button.png" width = "100px" height = "50px" alt="Button" display ="block">
-        <span style="position: relative; display: inline-block">{{ item.title }}</span>
+        <img src="../assets/Button.png" class="nav-link">
+        {{ item.title }}
       </a> 
       &nbsp;&nbsp;
     </li>
